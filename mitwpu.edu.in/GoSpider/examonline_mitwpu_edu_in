@@ -1,0 +1,2367 @@
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/check-browser-compatibility.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/ua-parser.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/prism.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/typed.min.js
+[javascript] - https://www.google.com/recaptcha/api.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/vendors/flickity/flickity.pkgd.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/cdn_vendors.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/humanize-duration.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/RecordRTC.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce.plugins.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce-placeholder.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/variable_plugin.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/download.min.js
+[javascript] - https://apis.google.com/js/client.js?onload=initPicker
+[javascript] - https://cdn.logrocket.io/LogRocket.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/runtime.743d94d79a7e7261056e.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/polyfills.50cfca21ce9a2ced9a41.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/main.629c2196cb431290b4b4.js
+[linkfinder] - https://www.google.com/recaptcha/api2/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/javascript
+[linkfinder] - https://www.gstatic.com/recaptcha/releases/qc5B-qjP0QEimFYUxcpWJy5B/recaptcha__en.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/k=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/m=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/exm=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/rt=j/sv=1/d=1/ed=1
+[linkfinder] - http://examonline.mitwpu.edu.in:80/am=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/rs=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/t=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/cb=
+[linkfinder] - https://apis.google.com
+[linkfinder] - https://accounts.google.com/o/oauth2/auth
+[linkfinder] - https://accounts.google.com/o/oauth2/postmessageRelay
+[linkfinder] - https://accounts.google.com/o/oauth2/iframe
+[linkfinder] - https://www.youtube.com/subscribe_embed?usegapi\u003d1
+[linkfinder] - https://play.google.com/work/embedded/search?usegapi\u003d1&usegapi\u003d1
+[linkfinder] - https://pay.google.com/gp/v/widget/save
+[linkfinder] - https://www.gstatic.com/partners/badge/templates/badge.html?usegapi\u003d1
+[linkfinder] - https://dataconnector.corp.google.com/:session_prefix:ui/widgetview?usegapi\u003d1
+[linkfinder] - https://www.google.com/shopping/customerreviews/optin?usegapi\u003d1
+[linkfinder] - https://talkgadget.google.com/:session_prefix:talkgadget/_/widget
+[linkfinder] - https://plus.google.com
+[linkfinder] - https://plus.googleapis.com
+[linkfinder] - https://clients3.google.com/cast/chromecast/home/widget/backdrop?usegapi\u003d1
+[linkfinder] - https://apis.google.com/marketplace/button?usegapi\u003d1
+[linkfinder] - https://www.google.com/shopping/customerreviews/badge?usegapi\u003d1
+[linkfinder] - https://classroom.google.com/sharewidget?usegapi\u003d1
+[linkfinder] - https://families.google.com/webcreation?usegapi\u003d1&usegapi\u003d1
+[linkfinder] - https://ssl.gstatic.com/microscope/embed/
+[linkfinder] - https://workspace.google.com/:session_prefix:marketplace/appfinder?usegapi\u003d1
+[linkfinder] - https://drive.google.com/savetodrivebutton?usegapi\u003d1
+[linkfinder] - https://apis.google.com/js/client.js?onload\u003dinitPicker
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/
+[linkfinder] - https://cdn.logrocket.io
+[linkfinder] - https://cdn.lr-ingest.io
+[linkfinder] - https://r.lr-ingest.io
+[linkfinder] - http://examonline.mitwpu.edu.in:80/logger.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/logger-1.min.js
+[linkfinder] - https://r.logrocket.io
+[linkfinder] - https://staging-i.logrocket.io
+[linkfinder] - https://staging-i.lr-ingest.io
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/text/javascript
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/css
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/cb=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/exm=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/412
+[linkfinder] - http://examonline.mitwpu.edu.in:80/416
+[linkfinder] - http://examonline.mitwpu.edu.in:80/417
+[linkfinder] - http://examonline.mitwpu.edu.in:80/419
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/k=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/name/version
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/feedback-icons/violation.png%5C
+[linkfinder] - wss://echo.websocket.org:443/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/t=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/rs=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/logger-1.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/jquery-bridget/jquery-bridget
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ev-emitter/ev-emitter
+[linkfinder] - http://examonline.mitwpu.edu.in:80/get-size/get-size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/desandro-matches-selector/matches-selector
+[linkfinder] - http://examonline.mitwpu.edu.in:80/fizzy-ui-utils/utils
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/cell
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/slide
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/animate
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/flickity
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/am=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/logger.min.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/text/css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/cell
+[linkfinder] - http://examonline.mitwpu.edu.in:80/slide
+[linkfinder] - http://examonline.mitwpu.edu.in:80/animate
+[linkfinder] - http://examonline.mitwpu.edu.in:80/unipointer/unipointer
+[linkfinder] - http://examonline.mitwpu.edu.in:80/unidragger/unidragger
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/drag
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tap-listener/tap-listener
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/prev-next-button
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/page-dots
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/player
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/add-remove-cell
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/lazyload
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity/js/index
+[linkfinder] - http://examonline.mitwpu.edu.in:80/drag
+[linkfinder] - http://examonline.mitwpu.edu.in:80/prev-next-button
+[linkfinder] - http://examonline.mitwpu.edu.in:80/page-dots
+[linkfinder] - http://examonline.mitwpu.edu.in:80/player
+[linkfinder] - http://examonline.mitwpu.edu.in:80/add-remove-cell
+[linkfinder] - http://examonline.mitwpu.edu.in:80/lazyload
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flickity-as-nav-for/as-nav-for
+[linkfinder] - http://examonline.mitwpu.edu.in:80/imagesloaded/imagesloaded
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/rt=j/sv=1/d=1/ed=1
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/m=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/419
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/octet-stream
+[javascript] - https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/runtime.6900751f7404bb7553f5.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/polyfills.c72eae6074e207eb501a.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/main.4acf0d3162daf8447624.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/assets/img/feedback-icons/violation.png%5C
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/javascript
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/webm
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/webm
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/ogg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/vp8
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/wav
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/webp
+[linkfinder] - https://www.webrtc-experiment.com/gif-recorder.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/gif
+[linkfinder] - https://unpkg.com/webm-wasm@latest/dist/webm-worker.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/javascript
+[linkfinder] - https://unpkg.com/webm-wasm@latest/dist/webm-wasm.wasm
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/412
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/416
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/name/version
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/417
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/jquery-bridget/jquery-bridget
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/animate
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ev-emitter/ev-emitter
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/get-size/get-size
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/desandro-matches-selector/matches-selector
+[linkfinder] - http://examonline.mitwpu.edu.in:80/QQT
+[linkfinder] - http://examonline.mitwpu.edu.in:80/k44
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://examonline.mitwpu.edu.in:80/svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/a/i
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/a/b
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/fizzy-ui-utils/utils
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/imagesloaded/imagesloaded
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/slide
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/cell
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/lazyload
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/unipointer/unipointer
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/flickity
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/drag
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/unidragger/unidragger
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/prev-next-button
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/ogg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/animate
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/wav
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/add-remove-cell
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/vp8
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/page-dots
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/prev-next-button
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/player
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity-as-nav-for/as-nav-for
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/drag
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/image/webp
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/a/b
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/add-remove-cell
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/QQT
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/player
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/webm
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/index
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/webm
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/cell
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tap-listener/tap-listener
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/lazyload
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/slide
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flickity/js/page-dots
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/svg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/javascript
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/image/gif
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/image/png
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/a/i
+[linkfinder] - http://examonline.mitwpu.edu.in:80/socket.io
+[linkfinder] - http://examonline.mitwpu.edu.in:80/engine.io
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/k44
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/socket.io
+[javascript] - https://examonline.mitwpu.edu.in:443/ruxitagentjs_ICA2SVfqru_10193200602113924.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/QQT
+[linkfinder] - http://examonline.mitwpu.edu.in:80/k44
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://examonline.mitwpu.edu.in:80/svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/a/i
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/a/b
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/engine.io
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-57x57.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-60x60.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-72x72.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-76x76.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-114x114.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-120x120.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-144x144.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-152x152.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/apple-icon-180x180.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/android-icon-192x192.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/favicon-32x32.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/favicon-96x96.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/favicon-16x16.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/favicons/ms-icon-144x144.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/check-browser-compatibility.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/ua-parser.min.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/prism.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/typed.min.js
+[linkfinder] - https://www.google.com/recaptcha/api.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/vendors/flickity/flickity.min.css
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/vendors/flickity/flickity.pkgd.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/css
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/cdn_vendors.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/humanize-duration.js
+[linkfinder] - https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/RecordRTC.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/x-mathjax-config
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/styles.f84e9351a6e4a5c7dbc8.css
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/logo.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce.plugins.min.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce-placeholder.min.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/variable_plugin.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/download.min.js
+[linkfinder] - https://www.google.com/jsapi?key=AIzaSyDx9DAjF0WXluSpwdMtS5CUPC5z7W7hM8U
+[linkfinder] - https://apis.google.com/js/client.js?onload=initPicker
+[linkfinder] - https://cdn.logrocket.io/LogRocket.min.js
+[linkfinder] - https://exams.paruluniversity.ac.in
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hxsmcx/test
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/javascript
+[linkfinder] - https://embed.tawk.to/5e96e56269e9320caac3c66d/default
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/runtime.743d94d79a7e7261056e.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/polyfills.50cfca21ce9a2ced9a41.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/main.629c2196cb431290b4b4.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpeg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Date/time
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/mpeg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/wav
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/mp4
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/webm
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/ogg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-shockwave-flash
+[linkfinder] - http://www.youtube.com/embed/$1
+[linkfinder] - http://www.youtube.com/embed/$2
+[linkfinder] - http://player.vimeo.com/video/$1?title=0&byline=0&portrait=0&color=8dc7dc
+[linkfinder] - http://player.vimeo.com/video/$2?title=0&amp;byline=0
+[linkfinder] - http://maps.google.com/maps/ms?msid=$2&output=embed
+[linkfinder] - http://www.dailymotion.com/embed/video/$1
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/javascript
+[linkfinder] - http://examonline.mitwpu.edu.in:80/x-tinymce/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/plain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-www-form-urlencoded
+[linkfinder] - http://examonline.mitwpu.edu.in:80/css/visualblocks.css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/HTML/XML
+[linkfinder] - http://examonline.mitwpu.edu.in:80/css/prism.css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/skins/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/skin.min.css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/content
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/hxsmcx/test
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/content
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/text/x-mathjax-config
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/mpeg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Date/time
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/x-tinymce/html
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/text/plain
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/mp4
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/skins/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/x-www-form-urlencoded
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/image/jpeg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/text/html
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/HTML/XML
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/x-shockwave-flash
+[linkfinder] - http://examonline.mitwpu.edu.in:80/locale/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/MM/DD/YYYY
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Bamako
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Banjul
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Conakry
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Dakar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Freetown
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Lome
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Nouakchott
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Ouagadougou
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Sao_Tome
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAfrica/Timbuktu
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Abidjan%7CAtlantic/St_Helena
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Cairo%7CEgypt
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Johannesburg%7CAfrica/Maseru
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Johannesburg%7CAfrica/Mbabane
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Bangui
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Brazzaville
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Douala
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Kinshasa
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Libreville
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Luanda
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Malabo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Niamey
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Lagos%7CAfrica/Porto-Novo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Blantyre
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Bujumbura
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Gaborone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Harare
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Kigali
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Lubumbashi
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Maputo%7CAfrica/Lusaka
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Addis_Ababa
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Asmara
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Asmera
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Dar_es_Salaam
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Djibouti
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Kampala
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CAfrica/Mogadishu
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CIndian/Antananarivo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CIndian/Comoro
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Nairobi%7CIndian/Mayotte
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Africa/Tripoli%7CLibya
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Adak%7CAmerica/Atka
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Adak%7CUS/Aleutian
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Anchorage%7CUS/Alaska
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Buenos_Aires%7CAmerica/Buenos_Aires
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Catamarca%7CAmerica/Argentina/ComodRivadavia
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Catamarca%7CAmerica/Catamarca
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Cordoba%7CAmerica/Cordoba
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Cordoba%7CAmerica/Rosario
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Jujuy%7CAmerica/Jujuy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Argentina/Mendoza%7CAmerica/Mendoza
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Atikokan%7CAmerica/Coral_Harbour
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Chicago%7CUS/Central
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Curacao%7CAmerica/Aruba
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Curacao%7CAmerica/Kralendijk
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Curacao%7CAmerica/Lower_Princes
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Denver%7CAmerica/Shiprock
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Denver%7CNavajo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Denver%7CUS/Mountain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Detroit%7CUS/Michigan
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Edmonton%7CCanada/Mountain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Fort_Wayne%7CAmerica/Indiana/Indianapolis
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Fort_Wayne%7CAmerica/Indianapolis
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Fort_Wayne%7CUS/East-Indiana
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Halifax%7CCanada/Atlantic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Havana%7CCuba
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Indiana/Knox%7CAmerica/Knox_IN
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Indiana/Knox%7CUS/Indiana-Starke
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Jamaica%7CJamaica
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Kentucky/Louisville%7CAmerica/Louisville
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Los_Angeles%7CUS/Pacific
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Los_Angeles%7CUS/Pacific-New
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Manaus%7CBrazil/West
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Mazatlan%7CMexico/BajaSur
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Mexico_City%7CMexico/General
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/New_York%7CUS/Eastern
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Noronha%7CBrazil/DeNoronha
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Panama%7CAmerica/Cayman
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Phoenix%7CUS/Arizona
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Anguilla
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Antigua
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Dominica
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Grenada
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Guadeloupe
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Marigot
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Montserrat
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/St_Barthelemy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/St_Kitts
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/St_Lucia
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/St_Thomas
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/St_Vincent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Tortola
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Port_of_Spain%7CAmerica/Virgin
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Regina%7CCanada/Saskatchewan
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Rio_Branco%7CAmerica/Porto_Acre
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Rio_Branco%7CBrazil/Acre
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Santiago%7CChile/Continental
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Sao_Paulo%7CBrazil/East
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/St_Johns%7CCanada/Newfoundland
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Tijuana%7CAmerica/Ensenada
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Tijuana%7CAmerica/Santa_Isabel
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Tijuana%7CMexico/BajaNorte
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Toronto%7CAmerica/Montreal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Toronto%7CCanada/Eastern
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Vancouver%7CCanada/Pacific
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Whitehorse%7CCanada/Yukon
+[linkfinder] - http://examonline.mitwpu.edu.in:80/America/Winnipeg%7CCanada/Central
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Ashgabat%7CAsia/Ashkhabad
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Bangkok%7CAsia/Phnom_Penh
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Bangkok%7CAsia/Vientiane
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Dhaka%7CAsia/Dacca
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Dubai%7CAsia/Muscat
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Ho_Chi_Minh%7CAsia/Saigon
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Hong_Kong%7CHongkong
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Jerusalem%7CAsia/Tel_Aviv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Jerusalem%7CIsrael
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Kathmandu%7CAsia/Katmandu
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Kolkata%7CAsia/Calcutta
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Kuala_Lumpur%7CAsia/Singapore
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Kuala_Lumpur%7CSingapore
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Macau%7CAsia/Macao
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Makassar%7CAsia/Ujung_Pandang
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Nicosia%7CEurope/Nicosia
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Qatar%7CAsia/Bahrain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Rangoon%7CAsia/Yangon
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Riyadh%7CAsia/Aden
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Riyadh%7CAsia/Kuwait
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Seoul%7CROK
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Shanghai%7CAsia/Chongqing
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Shanghai%7CAsia/Chungking
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Shanghai%7CAsia/Harbin
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Shanghai%7CPRC
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Taipei%7CROC
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Tehran%7CIran
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Thimphu%7CAsia/Thimbu
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Tokyo%7CJapan
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Ulaanbaatar%7CAsia/Ulan_Bator
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Asia/Urumqi%7CAsia/Kashgar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Atlantic/Faroe%7CAtlantic/Faeroe
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Atlantic/Reykjavik%7CIceland
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Atlantic/South_Georgia%7CEtc/GMT+2
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Adelaide%7CAustralia/South
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Brisbane%7CAustralia/Queensland
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Broken_Hill%7CAustralia/Yancowinna
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Darwin%7CAustralia/North
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Hobart%7CAustralia/Tasmania
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Lord_Howe%7CAustralia/LHI
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Melbourne%7CAustralia/Victoria
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Perth%7CAustralia/West
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Sydney%7CAustralia/ACT
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Sydney%7CAustralia/Canberra
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Australia/Sydney%7CAustralia/NSW
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Etc/UCT%7CUCT
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Etc/UTC%7CEtc/Universal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Etc/UTC%7CEtc/Zulu
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Etc/UTC%7CUTC
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Etc/UTC%7CUniversal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Etc/UTC%7CZulu
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Belgrade%7CEurope/Ljubljana
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Belgrade%7CEurope/Podgorica
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Belgrade%7CEurope/Sarajevo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Belgrade%7CEurope/Skopje
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Belgrade%7CEurope/Zagreb
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Chisinau%7CEurope/Tiraspol
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Dublin%7CEire
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Helsinki%7CEurope/Mariehamn
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Istanbul%7CAsia/Istanbul
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Istanbul%7CTurkey
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Lisbon%7CPortugal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/London%7CEurope/Belfast
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/London%7CEurope/Guernsey
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/London%7CEurope/Isle_of_Man
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/London%7CEurope/Jersey
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/London%7CGB
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/London%7CGB-Eire
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Moscow%7CW-SU
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Oslo%7CArctic/Longyearbyen
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Oslo%7CAtlantic/Jan_Mayen
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Prague%7CEurope/Bratislava
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Rome%7CEurope/San_Marino
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Rome%7CEurope/Vatican
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Warsaw%7CPoland
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Zurich%7CEurope/Busingen
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Europe/Zurich%7CEurope/Vaduz
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Indian/Christmas%7CEtc/GMT-7
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Auckland%7CAntarctica/McMurdo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Auckland%7CAntarctica/South_Pole
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Auckland%7CNZ
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Chatham%7CNZ-CHAT
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Easter%7CChile/EasterIsland
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Guam%7CPacific/Saipan
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Honolulu%7CPacific/Johnston
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Honolulu%7CUS/Hawaii
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Kwajalein%7CKwajalein
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Pago_Pago%7CPacific/Midway
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Pago_Pago%7CPacific/Samoa
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Pago_Pago%7CUS/Samoa
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Palau%7CEtc/GMT-9
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Pohnpei%7CEtc/GMT-11
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Pohnpei%7CPacific/Ponape
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Port_Moresby%7CEtc/GMT-10
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Port_Moresby%7CPacific/Chuuk
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Port_Moresby%7CPacific/Truk
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Port_Moresby%7CPacific/Yap
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Tarawa%7CEtc/GMT-12
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Tarawa%7CPacific/Funafuti
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Tarawa%7CPacific/Wake
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/javascript
+[linkfinder] - http://examonline.mitwpu.edu.in:80/langs/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/mce-no/type
+[linkfinder] - http://mce_host
+[linkfinder] - http://examonline.mitwpu.edu.in:80/plugin
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpeg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/plain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/no/type
+[linkfinder] - http://examonline.mitwpu.edu.in:80/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/json
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ephox/tinymce
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/ogg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Pacific/Tarawa%7CPacific/Wallis
+[linkfinder] - http://examonline.mitwpu.edu.in:80/socket.io
+[linkfinder] - http://examonline.mitwpu.edu.in:80/engine.io
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[linkfinder] - https://cdn.mathjax.org/mathjax/contrib
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/javascript
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/css
+[linkfinder] - http://examonline.mitwpu.edu.in:80/config.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/jax/mml
+[linkfinder] - http://examonline.mitwpu.edu.in:80/unpacked/MathJax.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/fast-preview.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/AssistiveMML.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/config.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/jax.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/jax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/extensions
+[linkfinder] - http://examonline.mitwpu.edu.in:80/input
+[linkfinder] - http://examonline.mitwpu.edu.in:80/output
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/fonts
+[linkfinder] - http://examonline.mitwpu.edu.in:80/images
+[linkfinder] - http://examonline.mitwpu.edu.in:80/element
+[linkfinder] - http://www.w3.org/1998/Math/MathML
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/2000/svg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Lusaka
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/locale/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/MM/DD/YYYY
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Bamako
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Dakar
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Ouagadougou
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Fort_Wayne%7CAmerica/Indianapolis
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Halifax%7CCanada/Atlantic
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Catamarca%7CAmerica/Catamarca
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Curacao%7CAmerica/Aruba
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Jamaica%7CJamaica
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Jujuy%7CAmerica/Jujuy
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Havana%7CCuba
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Libreville
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Denver%7CNavajo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CIndian/Mayotte
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Auckland%7CAntarctica/South_Pole
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAtlantic/St_Helena
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Porto-Novo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Kinshasa
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Niamey
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Gaborone
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CIndian/Comoro
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Johannesburg%7CAfrica/Maseru
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Freetown
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Johannesburg%7CAfrica/Mbabane
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Douala
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/output
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Rangoon%7CAsia/Yangon
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Rio_Branco%7CBrazil/Acre
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Kolkata%7CAsia/Calcutta
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Lisbon%7CPortugal
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Tarawa%7CPacific/Funafuti
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/extensions
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Nouakchott
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Bangkok%7CAsia/Phnom_Penh
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Dubai%7CAsia/Muscat
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Santiago%7CChile/Continental
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Tokyo%7CJapan
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Panama%7CAmerica/Cayman
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Kathmandu%7CAsia/Katmandu
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/London%7CEurope/Belfast
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Pohnpei%7CPacific/Ponape
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Chatham%7CNZ-CHAT
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/config.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Timbuktu
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Atikokan%7CAmerica/Coral_Harbour
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Regina%7CCanada/Saskatchewan
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Pago_Pago%7CUS/Samoa
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Kentucky/Louisville%7CAmerica/Louisville
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Etc/UTC%7CZulu
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Kuala_Lumpur%7CAsia/Singapore
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Istanbul%7CTurkey
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/langs/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Belgrade%7CEurope/Sarajevo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Riyadh%7CAsia/Aden
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Los_Angeles%7CUS/Pacific
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Ashgabat%7CAsia/Ashkhabad
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/St_Thomas
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Dhaka%7CAsia/Dacca
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Toronto%7CAmerica/Montreal
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Rio_Branco%7CAmerica/Porto_Acre
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Winnipeg%7CCanada/Central
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Sao_Tome
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/St_Vincent
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Auckland%7CAntarctica/McMurdo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Cordoba%7CAmerica/Cordoba
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Addis_Ababa
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Belgrade%7CEurope/Podgorica
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Etc/UTC%7CEtc/Zulu
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Port_Moresby%7CPacific/Chuuk
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Denver%7CUS/Mountain
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Kwajalein%7CKwajalein
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Whitehorse%7CCanada/Yukon
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Urumqi%7CAsia/Kashgar
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Harare
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Curacao%7CAmerica/Lower_Princes
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Phoenix%7CUS/Arizona
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Manaus%7CBrazil/West
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Indiana/Knox%7CAmerica/Knox_IN
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Pohnpei%7CEtc/GMT-11
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Dar_es_Salaam
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Curacao%7CAmerica/Kralendijk
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Cairo%7CEgypt
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Oslo%7CArctic/Longyearbyen
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Makassar%7CAsia/Ujung_Pandang
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Belgrade%7CEurope/Skopje
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/London%7CGB-Eire
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Sydney%7CAustralia/Canberra
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Etc/UCT%7CUCT
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Ho_Chi_Minh%7CAsia/Saigon
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Tarawa%7CEtc/GMT-12
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/St_Lucia
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Anchorage%7CUS/Alaska
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Sydney%7CAustralia/NSW
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Shanghai%7CAsia/Harbin
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Guam%7CPacific/Saipan
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Belgrade%7CEurope/Ljubljana
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Kuala_Lumpur%7CSingapore
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Istanbul%7CAsia/Istanbul
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Lord_Howe%7CAustralia/LHI
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Etc/UTC%7CUTC
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Antigua
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/London%7CEurope/Guernsey
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Los_Angeles%7CUS/Pacific-New
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Malabo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Atlantic/Faroe%7CAtlantic/Faeroe
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Mogadishu
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Prague%7CEurope/Bratislava
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Vancouver%7CCanada/Pacific
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Adak%7CUS/Aleutian
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Kigali
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Djibouti
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Tehran%7CIran
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Toronto%7CCanada/Eastern
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Lome
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Shanghai%7CAsia/Chongqing
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Mendoza%7CAmerica/Mendoza
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/St_Barthelemy
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/New_York%7CUS/Eastern
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Lubumbashi
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Zurich%7CEurope/Busingen
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Buenos_Aires%7CAmerica/Buenos_Aires
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Kampala
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Asmera
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Catamarca%7CAmerica/Argentina/ComodRivadavia
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Jerusalem%7CAsia/Tel_Aviv
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Seoul%7CROK
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/no/type
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Ulaanbaatar%7CAsia/Ulan_Bator
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Adelaide%7CAustralia/South
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/St_Johns%7CCanada/Newfoundland
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Indian/Christmas%7CEtc/GMT-7
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Mazatlan%7CMexico/BajaSur
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/mce-no/type
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Indiana/Knox%7CUS/Indiana-Starke
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Denver%7CAmerica/Shiprock
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Virgin
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CAfrica/Asmara
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Banjul
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Guadeloupe
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Nairobi%7CIndian/Antananarivo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Bangui
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Detroit%7CUS/Michigan
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/jax
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Edmonton%7CCanada/Mountain
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Hong_Kong%7CHongkong
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ephox/tinymce
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Hobart%7CAustralia/Tasmania
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Tortola
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Chicago%7CUS/Central
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Bangkok%7CAsia/Vientiane
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Abidjan%7CAfrica/Conakry
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Bujumbura
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Broken_Hill%7CAustralia/Yancowinna
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Brisbane%7CAustralia/Queensland
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Argentina/Cordoba%7CAmerica/Rosario
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Rome%7CEurope/San_Marino
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Montserrat
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Fort_Wayne%7CUS/East-Indiana
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/unpacked/MathJax.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/London%7CEurope/Isle_of_Man
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/London%7CGB
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Grenada
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Port_Moresby%7CPacific/Truk
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Honolulu%7CPacific/Johnston
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Melbourne%7CAustralia/Victoria
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Port_Moresby%7CEtc/GMT-10
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Maputo%7CAfrica/Blantyre
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Anguilla
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Qatar%7CAsia/Bahrain
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Adak%7CAmerica/Atka
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Fort_Wayne%7CAmerica/Indiana/Indianapolis
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Atlantic/Reykjavik%7CIceland
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Honolulu%7CUS/Hawaii
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Moscow%7CW-SU
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/St_Kitts
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Etc/UTC%7CEtc/Universal
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Sydney%7CAustralia/ACT
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Helsinki%7CEurope/Mariehamn
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Perth%7CAustralia/West
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Tripoli%7CLibya
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Taipei%7CROC
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Chisinau%7CEurope/Tiraspol
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Belgrade%7CEurope/Zagreb
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Palau%7CEtc/GMT-9
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/images
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Luanda
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/London%7CEurope/Jersey
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Etc/UTC%7CUniversal
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/theme
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Mexico_City%7CMexico/General
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Tijuana%7CAmerica/Ensenada
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Dominica
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Port_Moresby%7CPacific/Yap
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Australia/Darwin%7CAustralia/North
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/element
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Africa/Lagos%7CAfrica/Brazzaville
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Riyadh%7CAsia/Kuwait
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Dublin%7CEire
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/jax.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Sao_Paulo%7CBrazil/East
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Tarawa%7CPacific/Wake
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Thimphu%7CAsia/Thimbu
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Zurich%7CEurope/Vaduz
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Macau%7CAsia/Macao
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Jerusalem%7CIsrael
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/image/jpg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Easter%7CChile/EasterIsland
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/jax/mml
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Noronha%7CBrazil/DeNoronha
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Nicosia%7CEurope/Nicosia
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/input
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Oslo%7CAtlantic/Jan_Mayen
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Pago_Pago%7CPacific/Midway
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/AssistiveMML.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Rome%7CEurope/Vatican
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Pago_Pago%7CPacific/Samoa
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Tarawa%7CPacific/Wallis
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Shanghai%7CPRC
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Tijuana%7CAmerica/Santa_Isabel
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/plugin
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Pacific/Auckland%7CNZ
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/fast-preview.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Asia/Shanghai%7CAsia/Chungking
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/fonts
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Europe/Warsaw%7CPoland
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/json
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Tijuana%7CMexico/BajaNorte
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/America/Port_of_Spain%7CAmerica/Marigot
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Atlantic/South_Georgia%7CEtc/GMT+2
+[linkfinder] - http://examonline.mitwpu.edu.in:80/login
+[linkfinder] - http://examonline.mitwpu.edu.in:80/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/reset-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/recover-username
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-approval
+[linkfinder] - http://examonline.mitwpu.edu.in:80/stack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/talent-stack/skills
+[linkfinder] - http://examonline.mitwpu.edu.in:80/testhub
+[linkfinder] - http://examonline.mitwpu.edu.in:80/candidate
+[linkfinder] - http://examonline.mitwpu.edu.in:80/expert
+[linkfinder] - http://examonline.mitwpu.edu.in:80/choose-role
+[linkfinder] - http://examonline.mitwpu.edu.in:80/signup/candidate
+[linkfinder] - http://examonline.mitwpu.edu.in:80/signup/expert
+[linkfinder] - http://examonline.mitwpu.edu.in:80/signup/admin
+[linkfinder] - http://examonline.mitwpu.edu.in:80/404
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/logo.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/BK3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/KHz
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Rtn
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Vex
+[linkfinder] - http://examonline.mitwpu.edu.in:80/kVQ
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/utils/location
+[linkfinder] - http://examonline.mitwpu.edu.in:80/laI
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/no-zings.png
+[linkfinder] - https://www.youtube-nocookie.com/embed/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/generate_hash?email=
+[linkfinder] - https://community.talent.social/en/topics/new
+[linkfinder] - https://community.talent.social/en/community
+[linkfinder] - https://community.talent.social/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/signup
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/create
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/edit
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/profile/mine
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account/rewards
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account/settings
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account/billings
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/logo_white.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/home
+[linkfinder] - http://examonline.mitwpu.edu.in:80/talent-stack/profile
+[linkfinder] - http://examonline.mitwpu.edu.in:80/talent-stack/social
+[linkfinder] - http://examonline.mitwpu.edu.in:80/talent-stack/pitch
+[linkfinder] - http://examonline.mitwpu.edu.in:80/talent-stack/personality
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tests/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flows/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/applications/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/schedule/dashboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/requests
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ecosystem/analytics
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ecosystem/reports
+[linkfinder] - http://examonline.mitwpu.edu.in:80/talent-stack/expertise
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pages/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/list/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/panel/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/skills
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/simple-audio-player-placeholder.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/simple-video-player-placeholder.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/thumb-video.svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/thumb-audio.svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/thumb-pdf.svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/spinner.gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/medias
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/XML/1998/namespace
+[linkfinder] - http://www.w3.org/2000/xmlns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Uzq
+[linkfinder] - http://examonline.mitwpu.edu.in:80/stack/search
+[linkfinder] - http://examonline.mitwpu.edu.in:80/certificate
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/edit/password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpeg
+[linkfinder] - https://about.talent.social/cookies
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/state
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-role
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/location?limit=5&keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators-restricted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/count
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/edit-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-extras
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-list-assign
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/pending
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/check-exist?emails=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/gradebook
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/related/find?keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/university-settings/global-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-meazr/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/filter?title=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zings/messages?page=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zings/latest
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zings/notRead
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zings/message
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zings/read
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zings/messages/read
+[linkfinder] - http://examonline.mitwpu.edu.in:80/M/d/yy
+[linkfinder] - https://www.linkedin.com/company/talentempowered
+[linkfinder] - https://www.youtube.com/channel/UCvT89EPH3Mx66cNMi2EE4jQ
+[linkfinder] - https://www.facebook.com/talentempowered
+[linkfinder] - https://twitter.com/talentempowered
+[linkfinder] - https://plus.google.com/u/0/109258934608217250485
+[linkfinder] - https://www.instagram.com/be.talented
+[linkfinder] - http://examonline.mitwpu.edu.in:80/sessions/token
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/bind
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/iphone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/auth/
+[linkfinder] - http://s3-api.us-geo.objectstorage.softlayer.net/talent.images/549e2a40-1b52-11e8-9981-975500dbda41-image.jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/zip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/bmp
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/mp4
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/pdf
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/msword
+[linkfinder] - http://examonline.mitwpu.edu.in:80/comments?model=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/reviews/comments
+[linkfinder] - http://examonline.mitwpu.edu.in:80/reviews/replies
+[linkfinder] - http://examonline.mitwpu.edu.in:80/reviews/replies/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/comments/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/replies/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-1.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-2.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-3.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-4.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-5.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-6.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-7.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/candidate/bg-8.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-1.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-2.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-3.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-4.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-5.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-6.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-7.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/onboarding/expert/bg-8.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification/email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/candidate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/expert/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/javascript
+[linkfinder] - https://cdn.tiny.cloud/1/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tinymce/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tinymce.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - https://quilljs.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/attribute/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/indent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/blockquote
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code-block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/header
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/bold
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/italic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/link
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/script
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/strike
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/underline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/video
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list/item
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/formula
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/syntax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/toolbar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/bubble
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/snow
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icons
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icon-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/color-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/tooltip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile-feed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/plain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/json
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/signup
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-username
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/reset-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/validate-phone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/resend-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-essentials
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/unsubscribe
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-playerid
+[linkfinder] - http://www.linkedin.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/meta
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/watermark-text.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/watermark-logo.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/store/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/embed/error-page/
+[linkfinder] - https://0c11ad74d8ce495f9b99f1f0a9dbae9a@sentry.talent.social/4
+[linkfinder] - https://talentforwork.com
+[linkfinder] - https://www.talentforwork.com
+[linkfinder] - http://www.w3.org/2000/svg/
+[linkfinder] - http://www.w3.org/1998/MathML/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngModuleDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectorDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/template.html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngComponentDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngDirectiveDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngPipeDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectableDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zone.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dashboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-www-form-urlencoded
+[linkfinder] - http://examonline.mitwpu.edu.in:80/multipart/form-data
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/access
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/in-person-interview/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/overall-review/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/review/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/comment/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/reply/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/merge
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/questions/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/by-date?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/attempts-status?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/attempts-location?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/attempts-performance?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/personality-insights/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/date-range?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/is-benchmark/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/questions/check-answer-web
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/spinner.gif
+[linkfinder] - http://www.gravatar.com/avatar/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/login
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/M/d/yy
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/forgot-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/reset-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/state
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/kVQ
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/account/settings
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/signup/expert
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/edit/password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/stack/search
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/talent-stack/pitch
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ecosystem/reports
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/count
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/candidates
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/pages/list
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/recover-username
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/modules/keyboard
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/candidate
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tests/list
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/leaderboards/publish/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/location?limit=5&keyword=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ecosystem/analytics
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/creators-restricted
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/attribute/direction
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/list
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/api/assets/generate_hash?email=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/applications/list
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/container
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/api/utils/location
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/pending-approval
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/image
+[url] - [code-401] - https://examonline.mitwpu.edu.in:443/api/medias
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/modules/formula
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/color
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zings/notRead
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/home
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/account
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zone.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/sessions/token
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zings/read
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/leaderboards/filter?title=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/edit-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/csv
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/modules/toolbar
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/signup
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/creators
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/zip
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/talent-stack/profile
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/list/item
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zings/latest
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/update-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/class/size
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/update-extras
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/laI
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ui/tooltip
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/comments/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/modules/syntax
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/embed
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/validate-phone
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/is-benchmark/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/replies/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/KHz
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ui/color-picker
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/404
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/indent
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zings/message
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/resend-email
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/hackz/compile
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/choose-role
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/text/csv
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/profile/mine
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/requests
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/talent-stack/expertise
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/skills
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/signup/candidate
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/size
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/dashboard
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Vex
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/pending-verification
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/modules/history
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/overall-review/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/pdf
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/merge
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zings/messages/read
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/bold
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/unsubscribe
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/university-settings/global-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/inline
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/reply/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ngInjectableDef.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/blockquote
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/block/embed
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ui/picker
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/align
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/style/size
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/code-block
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/update-role
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/themes/snow
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/style/font
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/find
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/comments?model=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/direction
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/background
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/reset-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/list/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/access
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Rtn
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/block
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/forgot-password
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/store/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/testhub
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/BK3
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/account/rewards
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/certificate
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/schedule/dashboard
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/bind
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/signup/admin
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/expert
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/themes/bubble
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/gradebook
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/add-favorite
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/shared-tracks/attempts-location?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/expert/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zings/messages?page=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/style/direction
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/talent-stack/social
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flows/list
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/text
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/talent-stack/personality
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/account/billings
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/script
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/pending-verification/email
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/update-essentials
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/italic
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/reviews/comments
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ui/icon-picker
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/stack
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/modules/clipboard
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/video
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/related/find?keyword=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/reviews/replies/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ui/icons
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ngPipeDef.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/class/align
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/edit
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/cursor
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/questions/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/candidate/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/date-range?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/class/font
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/link
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/review/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/font
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/core/module
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tinymce.min.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/style/color
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/personality-insights/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/style/align
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/header
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tinymce/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/msword
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ngDirectiveDef.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/questions/check-answer-web
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ngComponentDef.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/hackz/compile-feed
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/check-exist?emails=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/reviews/replies
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/update-playerid
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ngModuleDef.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/remove-favorite
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/talent-stack/skills
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/strike
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/forgot-username
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/signup
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/in-person-interview/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/create
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/underline
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/formats/code
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/iphone
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/update-list-assign
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/class/background
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/scroll
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/by-date?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/core/theme
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/shared-tracks/attempts-status?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/Uzq
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/blots/break
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/leaderboards/by-meazr/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/pending
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/style/background
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/image/bmp
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/class/direction
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/attributors/class/color
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ngInjectorDef.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/multipart/form-data
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/shared-tracks/attempts-performance?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/panel/list
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/comment/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/BK3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Vex
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/XML/1998/namespace
+[linkfinder] - http://www.w3.org/2000/xmlns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/M/d/yy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - https://quilljs.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/attribute/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/indent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/blockquote
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code-block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/header
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/bold
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/italic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/link
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/script
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/strike
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/underline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/video
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list/item
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/formula
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/syntax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/toolbar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/bubble
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/snow
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icons
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icon-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/color-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/tooltip
+[linkfinder] - http://www.w3.org/2000/svg/
+[linkfinder] - http://www.w3.org/1998/MathML/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngModuleDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectorDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/template.html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngComponentDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngDirectiveDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngPipeDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectableDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zone.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dashboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/json
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/plain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-www-form-urlencoded
+[linkfinder] - http://examonline.mitwpu.edu.in:80/multipart/form-data
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-playerid
+[linkfinder] - https://about.talent.social/cookies
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/placeholder-talent-logo.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/candidate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/expert/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/pdf
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/msword
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a6b41dd0-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/b5ba8d50-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a94e0290-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/f6bf48b0-6a4c-11e8-b23e-afe72327e63c-f6979c70-6a4c-11e8-ab0c-631ba2dd413a.png
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/03bcf570-7661-11e7-a9eb-896e02b5af86.png
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/e6b15e70-a924-11e7-9652-cfbda17d6ec9-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/b28cd200-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a793d470-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a6123d80-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - http://website.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/by-slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/public/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/zone-slug
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/duplicate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/follow/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feedback?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feedback/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/dare
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/billing
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/duel-score
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/update-participation
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/register
+[linkfinder] - http://examonline.mitwpu.edu.in:80/payments/paypal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/duel.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/country-flags/png/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-slug/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/country-flags/png/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/spinner.gif
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/skins/lightgray
+[linkfinder] - http://examonline.mitwpu.edu.in:80/vote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussions/unvote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussions/mark-resolved/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussion-comments/mark-best-answer/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/utils/location
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/filter-icon.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/signup
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-username
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/reset-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/validate-phone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/resend-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-essentials
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/unsubscribe
+[linkfinder] - http://examonline.mitwpu.edu.in:80/login
+[linkfinder] - http://examonline.mitwpu.edu.in:80/home
+[linkfinder] - http://examonline.mitwpu.edu.in:80/sessions/token
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/bind
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/iphone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/auth/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/login-bg/login-
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/login.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/empty-message.svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/test/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flow/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/page/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dd/MM/yy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/card-bg.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-meazr/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/filter?title=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/filter?limit=5&name=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/filter-all
+[linkfinder] - http://examonline.mitwpu.edu.in:80/slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/meazrs/tags/autocomplete?content=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/meazrs/seo/autocomplete?content=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite/multiple
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite/multiple
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/send-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/missing-columns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/search
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/price-range
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/updateInStack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/updatePromoted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/request-publish-instack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/unpublish-from-stack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/events
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/recommendations/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feed/create-honor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feed/create-reward
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/find-to-notify
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/state
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-role
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/location?limit=5&keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators-restricted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/count
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/edit-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-extras
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-list-assign
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/pending
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/check-exist?emails=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/gradebook
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/related/find?keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/university-settings/global-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/like/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/like/
+[linkfinder] - https://www.facebook.com/dialog/share
+[linkfinder] - https://www.linkedin.com/shareArticle
+[linkfinder] - https://twitter.com/intent/tweet
+[linkfinder] - https://plus.google.com/share?url=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/testhub
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/logo.png
+[linkfinder] - https://wallpaperscraft.com/image/keyboard_fingers_hand_girl_pressing_80014_4928x3264.jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpeg
+[linkfinder] - https://cdn.temasys.io/adapterjs/0.15.x/adapter.screenshare.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/default-avatar.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/smartcrop.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/State/Province
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/zip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/bmp
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/mp4
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/file
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.css
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplications/by-slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplications/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/access
+[linkfinder] - http://examonline.mitwpu.edu.in:80/opinion/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/fields/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/ztool/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/check/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/refer
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplications/eligibility/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/capture/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/payment-info/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/mark-it-done/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/spinner.gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification/email
+[linkfinder] - https://securegw-stage.paytm.in/order/process
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/duel-ready.mp3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/404
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/certificates/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile-feed
+[linkfinder] - http://www.gravatar.com/avatar/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/find
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/by-slug/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/check/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/search
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feeds/find-to-notify
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/dd/MM/yy
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/updateInStack
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feedback?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/assets/img/country-flags/png/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/publish/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/find
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/access
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/recommendations/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/share/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/test/
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/vendors/no-sleep/NoSleep.min.js
+[javascript] - https://cdn.quilljs.com/1.0.0/quill.min.js
+[javascript] - https://cdn.quilljs.com/1.0.0/quill.core.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/shared-tracks/billing
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/main.580f6aa984ab61e7a08e.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feeds/update-participation
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/publish/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/filter-all
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/price-range
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/filter?limit=5&name=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/discussions/mark-resolved/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/updatePromoted
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/duplicate/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/opinion/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/share/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/leaderboards/by-slug/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/request-publish-instack
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/missing-columns/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/payment-info/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/like/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/add-favorite/multiple
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/payments/paypal
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/unpublish-from-stack
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/meazrs/seo/autocomplete?content=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feedback/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/fields/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/remove-favorite/multiple
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/assets/img/login-bg/login-
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feed/create-honor
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feed/create-reward
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/feeds/register
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/events
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/like/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/duel-score
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/zone-slug
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/refer
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/shared-tracks/send-email
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/users/public/candidates
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/discussion-comments/mark-best-answer/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/capture/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/slug/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/discussions/unvote/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zones/follow/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplications/share/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/flow/
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/main.6c41aa967d898e19fd01.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/meazrs/tags/autocomplete?content=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplications/eligibility/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ztools/dare
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/mark-it-done/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/State/Province
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplications/by-slug/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/zapplication-tracks/ztool/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/vote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/indent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/blockquote
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code-block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/header
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/bold
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/italic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/link
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/script
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/strike
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/underline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/video
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list/item
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/formula
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/syntax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/toolbar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/bubble
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/snow
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icons
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icon-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/color-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/tooltip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/indent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/blockquote
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code-block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/header
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/bold
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/italic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/link
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/script
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/strike
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/underline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/video
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list/item
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/formula
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/syntax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/toolbar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/bubble
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/snow
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icons
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icon-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/color-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/tooltip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/BK3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Vex
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/XML/1998/namespace
+[linkfinder] - http://www.w3.org/2000/xmlns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/M/d/yy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - https://quilljs.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/attribute/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/indent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/blockquote
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code-block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/header
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/bold
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/italic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/link
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/script
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/strike
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/underline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/video
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list/item
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/formula
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/syntax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/toolbar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/bubble
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/snow
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icons
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icon-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/color-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/tooltip
+[linkfinder] - http://www.w3.org/2000/svg/
+[linkfinder] - http://www.w3.org/1998/MathML/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngModuleDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectorDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/template.html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngComponentDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngDirectiveDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngPipeDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectableDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zone.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dashboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/json
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/plain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-www-form-urlencoded
+[linkfinder] - http://examonline.mitwpu.edu.in:80/multipart/form-data
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-playerid
+[linkfinder] - https://about.talent.social/cookies
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/placeholder-talent-logo.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/candidate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/expert/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/pdf
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/msword
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a6b41dd0-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/b5ba8d50-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a94e0290-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/f6bf48b0-6a4c-11e8-b23e-afe72327e63c-f6979c70-6a4c-11e8-ab0c-631ba2dd413a.png
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/03bcf570-7661-11e7-a9eb-896e02b5af86.png
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/e6b15e70-a924-11e7-9652-cfbda17d6ec9-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/b28cd200-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a793d470-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a6123d80-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - http://website.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/by-slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/public/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/zone-slug
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/duplicate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/follow/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feedback?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feedback/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/dare
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/billing
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/duel-score
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/update-participation
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/register
+[linkfinder] - http://examonline.mitwpu.edu.in:80/payments/paypal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/duel.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/country-flags/png/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-slug/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/country-flags/png/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/spinner.gif
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/skins/lightgray
+[linkfinder] - http://examonline.mitwpu.edu.in:80/vote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussions/unvote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussions/mark-resolved/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussion-comments/mark-best-answer/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/utils/location
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/filter-icon.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/signup
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-username
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/reset-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/validate-phone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/resend-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-essentials
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/unsubscribe
+[linkfinder] - http://examonline.mitwpu.edu.in:80/login
+[linkfinder] - http://examonline.mitwpu.edu.in:80/home
+[linkfinder] - http://examonline.mitwpu.edu.in:80/sessions/token
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/bind
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/iphone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/auth/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/login-bg/login-
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/login.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/empty-message.svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/test/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flow/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/page/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dd/MM/yy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/card-bg.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-meazr/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/filter?title=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/filter?limit=5&name=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/filter-all
+[linkfinder] - http://examonline.mitwpu.edu.in:80/slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/meazrs/tags/autocomplete?content=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/meazrs/seo/autocomplete?content=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite/multiple
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite/multiple
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/send-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/missing-columns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/search
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/price-range
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/updateInStack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/updatePromoted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/request-publish-instack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/unpublish-from-stack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/events
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/recommendations/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feed/create-honor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feed/create-reward
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/find-to-notify
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/state
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-role
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/location?limit=5&keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators-restricted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/count
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/edit-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-extras
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-list-assign
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/pending
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/check-exist?emails=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/gradebook
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/related/find?keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/university-settings/global-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/like/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/like/
+[linkfinder] - https://www.facebook.com/dialog/share
+[linkfinder] - https://www.linkedin.com/shareArticle
+[linkfinder] - https://twitter.com/intent/tweet
+[linkfinder] - https://plus.google.com/share?url=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/testhub
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/logo.png
+[linkfinder] - https://wallpaperscraft.com/image/keyboard_fingers_hand_girl_pressing_80014_4928x3264.jpg
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-1.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-2.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-3.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-4.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-5.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-6.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-7.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/spinner.gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zig-tracks/instruction/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zig-tracks/capture/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zig-tracks/tracks/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/ztool/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zig-tracks/header/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zig-tracks/description
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/check-registration
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpeg
+[linkfinder] - https://cdn.temasys.io/adapterjs/0.15.x/adapter.screenshare.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/default-avatar.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/smartcrop.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/State/Province
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/zip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/bmp
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/mp4
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/file
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.css
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification/email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification/phone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/certificates/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/print/track/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/print/zig-track/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/happy-meazr-icon.jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/feedback-icons/time-out.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/users/account-exist
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/sessions
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/users/create-otp
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/duel-ready.mp3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/404
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile-feed
+[linkfinder] - http://www.gravatar.com/avatar/
+https://examonline.mitwpu.edu.in
+[linkfinder] - http://examonline.mitwpu.edu.in:80/BK3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/Vex
+[linkfinder] - http://examonline.mitwpu.edu.in:80/
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/XML/1998/namespace
+[linkfinder] - http://www.w3.org/2000/xmlns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dashboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/json
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/plain
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-www-form-urlencoded
+[linkfinder] - http://examonline.mitwpu.edu.in:80/multipart/form-data
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/octet-stream
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-playerid
+[linkfinder] - https://about.talent.social/cookies
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/placeholder-talent-logo.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/candidate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/expert/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/pdf
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/msword
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a6b41dd0-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/b5ba8d50-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a94e0290-52cf-11e8-950e-851fcd791428-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/f6bf48b0-6a4c-11e8-b23e-afe72327e63c-f6979c70-6a4c-11e8-ab0c-631ba2dd413a.png
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/03bcf570-7661-11e7-a9eb-896e02b5af86.png
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/e6b15e70-a924-11e7-9652-cfbda17d6ec9-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/b28cd200-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a793d470-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - https://sgp1.digitaloceanspaces.com/talent-images/a6123d80-158f-11e8-bb9e-dde75918bb61-image.jpg
+[linkfinder] - http://website.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/by-slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/public/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/find
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/zone-slug
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/duplicate/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/follow/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feedback?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feedback/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/dare
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/billing
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/duel-score
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/update-participation
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/register
+[linkfinder] - http://examonline.mitwpu.edu.in:80/payments/paypal
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/duel.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/country-flags/png/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-slug/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/country-flags/png/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/spinner.gif
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/skins/lightgray
+[linkfinder] - http://examonline.mitwpu.edu.in:80/vote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussions/unvote/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussions/mark-resolved/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/discussion-comments/mark-best-answer/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/utils/location
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/filter-icon.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/signup
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/forgot-username
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/reset-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/validate-phone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/resend-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-essentials
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/unsubscribe
+[linkfinder] - http://examonline.mitwpu.edu.in:80/login
+[linkfinder] - http://examonline.mitwpu.edu.in:80/home
+[linkfinder] - http://examonline.mitwpu.edu.in:80/sessions/token
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/bind
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/iphone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/auth/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/login-bg/login-
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/login.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/forgot-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/empty-message.svg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/test/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/flow/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/page/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/dd/MM/yy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/card-bg.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/by-meazr/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/leaderboards/filter?title=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/filter?limit=5&name=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/filter-all
+[linkfinder] - http://examonline.mitwpu.edu.in:80/slug/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/publish/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/meazrs/tags/autocomplete?content=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/meazrs/seo/autocomplete?content=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite/multiple
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite/multiple
+[linkfinder] - http://examonline.mitwpu.edu.in:80/shared-tracks/send-email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/missing-columns/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/search
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/price-range
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/updateInStack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/updatePromoted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/request-publish-instack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/unpublish-from-stack
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/events
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/share/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/recommendations/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feed/create-honor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feed/create-reward
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/find-to-notify
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/state
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-role
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/location?limit=5&keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/candidates
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/creators-restricted
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/count
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/edit-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-extras
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/account
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/update-list-assign
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/add-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/remove-favorite
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/pending
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/check-exist?emails=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/gradebook
+[linkfinder] - http://examonline.mitwpu.edu.in:80/users/related/find?keyword=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/university-settings/global-password
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ztools/like/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zones/like/
+[linkfinder] - https://www.facebook.com/dialog/share
+[linkfinder] - https://www.linkedin.com/shareArticle
+[linkfinder] - https://twitter.com/intent/tweet
+[linkfinder] - https://plus.google.com/share?url=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/testhub
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/logo.png
+[linkfinder] - https://wallpaperscraft.com/image/keyboard_fingers_hand_girl_pressing_80014_4928x3264.jpg
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-1.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-2.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-3.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-4.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-5.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-6.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/why-sponsor/Sponsor-contest-on-Talent-Branding-7.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/spinner.gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/blob/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/huge-blob/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/blob
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/webm
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/vendors/web-worker.js
+[linkfinder] - https://cdn.temasys.io/adapterjs/0.15.x/adapter.screenshare.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/webm
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/happy-meazr-icon.jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/feedback-icons/violation.png
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.3.7/wavesurfer.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/feedback-icons/submission-success.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/face-api.min.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/json/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/tracks/update-media-id/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/watermark-text.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/watermark-logo.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/img/bandwidth-test.png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload-speed-test?cache=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/access
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/session/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/init/broadcast
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/finish
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/post-finish
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/show?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/next?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/category?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/get-status?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/answers?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/current-question/answers?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/show-answer?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/show-correct-answer?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/trivia/answer
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/submitted?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/hide?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/questions/show-current?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/trivia-tracks/show-categories?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/create-bind-session?slug=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/trivia
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/report-issue/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/instruction/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/capture/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/questions/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zig-tracks/tracks/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zapplication-tracks/ztool/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/uploaded/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/submission-question
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/next-heartbeat?zigged=
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/header/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/description
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/tag
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/tag/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/tracks/associate-developers
+[linkfinder] - http://examonline.mitwpu.edu.in:80/feeds/check-registration
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/default-meazr-avatar.png
+[linkfinder] - market://details?id=com.talentgo.candidate
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/png
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/jpeg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/default-avatar.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/smartcrop.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/State/Province
+[linkfinder] - http://examonline.mitwpu.edu.in:80/text/csv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/zip
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/gif
+[linkfinder] - http://examonline.mitwpu.edu.in:80/image/bmp
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/mp4
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/upload/file
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.css
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/10.1.0/nouislider.min.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification/email
+[linkfinder] - http://examonline.mitwpu.edu.in:80/pending-verification/phone
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ace/mode/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ace/theme/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ace/keyboard/
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.8/ace.js
+[linkfinder] - https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.9/ext-language_tools.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile
+[linkfinder] - http://examonline.mitwpu.edu.in:80/hackz/compile-feed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/main.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/main.php
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/x-matroska
+[linkfinder] - http://examonline.mitwpu.edu.in:80/application/x-flv
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/x-msvideo
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/quicktime
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/x-m4v
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/mpeg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/video/ogg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/amr
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/mpeg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/mp3
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/x-wav
+[linkfinder] - http://examonline.mitwpu.edu.in:80/audio/ogg
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/assets/submissions
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/meazrman-help-buddy.png
+[linkfinder] - https://talentforwork.com/api/tracks/vid-proctor-data/
+[linkfinder] - https://talent.social/api/tracks/video-data/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/certificates/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/print/track/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/print/zig-track/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/feedback-icons/time-out.png
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/show_question.mp3
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/question.mp3
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/select.mp3
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/tick.mp3
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/right.mp3
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/wrong.mp3
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/time_up.mp3
+[linkfinder] - https://live.talent.social/janus
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/users/account-exist
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/sessions
+[linkfinder] - http://examonline.mitwpu.edu.in:80/api/users/create-otp
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/card.js
+[linkfinder] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/audio/duel-ready.mp3
+[linkfinder] - https://examonline.mitwpu.edu.in/flow/ug-pet-dat-test
+[linkfinder] - http://examonline.mitwpu.edu.in:80/404
+[linkfinder] - http://examonline.mitwpu.edu.in:80/testhub/search
+[linkfinder] - http://examonline.mitwpu.edu.in:80/assets/img/social-icons/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/M/d/yy
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/module
+[linkfinder] - http://examonline.mitwpu.edu.in:80/core/theme
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/block/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/break
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/container
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/cursor
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/embed
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/inline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/scroll
+[linkfinder] - http://examonline.mitwpu.edu.in:80/blots/text
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/clipboard
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/history
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/keyboard
+[linkfinder] - https://quilljs.com
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/attribute/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/class/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/attributors/style/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/align
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/direction
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/indent
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/background
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/color
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/font
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/size
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/blockquote
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code-block
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/header
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/bold
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/code
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/italic
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/link
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/script
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/strike
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/underline
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/image
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/video
+[linkfinder] - http://examonline.mitwpu.edu.in:80/formats/list/item
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/formula
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/syntax
+[linkfinder] - http://examonline.mitwpu.edu.in:80/modules/toolbar
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/bubble
+[linkfinder] - http://examonline.mitwpu.edu.in:80/themes/snow
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icons
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/icon-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/color-picker
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ui/tooltip
+[linkfinder] - http://www.w3.org/2000/svg/
+[linkfinder] - http://www.w3.org/1998/MathML/
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngModuleDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectorDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/template.html
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngComponentDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngDirectiveDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngPipeDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/ngInjectableDef.js
+[linkfinder] - http://examonline.mitwpu.edu.in:80/zone.js
+[linkfinder] - http://www.gravatar.com/avatar/
+[url] - [code-200] - https://examonline.mitwpu.edu.in/flow/ug-pet-dat-test
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/header/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/report-issue/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/quicktime
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/main.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/application/x-flv
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/get-status?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/trivia
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/answers?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/next-heartbeat?zigged=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/trivia/answer
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/main.php
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/session/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/x-m4v
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/current-question/answers?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/capture/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ace/keyboard/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/show?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ace/theme/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/tag/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/instruction/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/uploaded/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/create-bind-session?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/tag
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/testhub/search
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/amr
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/next?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/hide?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/show-current?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/x-wav
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/submission-question
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/x-msvideo
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/category?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/mpeg
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/show-answer?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/init/broadcast
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/show-correct-answer?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/show-categories?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/finish
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/assets/img/social-icons/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/questions/submitted?slug=
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/associate-developers
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/trivia-tracks/post-finish
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/tracks/description
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/assets/vendors/web-worker.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/ace/mode/
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/video/x-matroska
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/audio/mp3
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/check-browser-compatibility.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/ua-parser.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/prism.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/typed.min.js
+[javascript] - https://www.google.com/recaptcha/api.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/vendors/flickity/flickity.pkgd.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/cdn_vendors.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/humanize-duration.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/RecordRTC.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce.plugins.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/tinymce-placeholder.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/vendors/variable_plugin.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/assets/js/download.min.js
+[javascript] - https://apis.google.com/js/client.js?onload=initPicker
+[javascript] - https://cdn.logrocket.io/LogRocket.min.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/runtime.743d94d79a7e7261056e.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/polyfills.50cfca21ce9a2ced9a41.js
+[javascript] - https://talent-assets.s3.ap-south-1.amazonaws.com/wpu/main.629c2196cb431290b4b4.js
+[url] - [code-200] - https://examonline.mitwpu.edu.in:443/
