@@ -144,6 +144,8 @@ http://socialverification.creditkarma.com:80
 http://sponge-origin.creditkarma.com:80
 http://sponge-origin.creditkarma.com:8080
 http://sponge.creditkarma.com:80
+http://stage.newton.creditkarma.com:80
+http://stage.newton.creditkarma.com:8080
 http://support.creditkarma.com:80
 http://tags.creditkarma.com:80
 http://tax-origin.creditkarma.com:80
@@ -152,6 +154,8 @@ http://tax.creditkarma.com:80
 http://taxhelp.creditkarma.com:80
 http://taxhelp.creditkarma.com:8443
 http://taxsupport.creditkarma.com:80
+http://ukbms.corp.creditkarma.com:80
+http://ukbms.corp.creditkarma.com:8080
 http://vinyl.test.creditkarma.com:80
 http://vinyl.test.creditkarma.com:8080
 http://www.creditkarma.com:80
@@ -234,6 +238,7 @@ https://tax-origin.creditkarma.com:443
 https://tax.creditkarma.com:443
 https://taxhelp.creditkarma.com:443
 https://taxsupport.creditkarma.com:443
+https://ukbms.corp.creditkarma.com:443
 https://vinyl.test.creditkarma.com:443
 https://vpn.iad1.creditkarma.com:443
 https://www.creditkarma.com:443
