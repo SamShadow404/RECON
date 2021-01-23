@@ -1,0 +1,195 @@
+[robots] - http://lark-technologies.larksuite.com:80/docs/*
+[robots] - http://lark-technologies.larksuite.com:80/sheets/*
+[robots] - http://lark-technologies.larksuite.com:80/sheet/*
+[robots] - http://lark-technologies.larksuite.com:80/file/*
+[robots] - http://lark-technologies.larksuite.com:80/wiki/*
+[robots] - http://lark-technologies.larksuite.com:80/mindnotes/*
+[robots] - http://lark-technologies.larksuite.com:80/mindnote/*
+[robots] - http://lark-technologies.larksuite.com:80/slides/*
+[robots] - http://lark-technologies.larksuite.com:80/slide/*
+[robots] - http://lark-technologies.larksuite.com:80/wiki_home/*
+[robots] - http://lark-technologies.larksuite.com:80/base/*
+[robots] - http://lark-technologies.larksuite.com:80/space/*
+[robots] - http://lark-technologies.larksuite.com:80/drive/*
+[robots] - http://lark-technologies.larksuite.com:80/doc/*
+[robots] - http://lark-technologies.larksuite.com:80/api/*
+[robots] - http://lark-technologies.larksuite.com:80/bitable/*
+[robots] - http://lark-technologies.larksuite.com:80/
+https://internal-api.larksuite.com
+https://internal-api-lark-api.larksuite.com
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flark-technologies.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+[javascript] - https://sf16-va.larksuitecdn.com/goofy/ee/suite/passport/static/login/js/vendor~page.login.7fda2e72.js
+[javascript] - https://sf16-va.larksuitecdn.com/goofy/ee/suite/passport/static/login/js/login.28cd11b8.js
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flark-technologies.larksuite.com%2Fwiki%2F%2A&template_id=6882649779491307521
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flark-technologies.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+[linkfinder] - http://lark-technologies.larksuite.com:80/a/b
+[linkfinder] - http://lark-technologies.larksuite.com:80/a/i
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/gif?
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/user/webid
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/user/webid/
+[linkfinder] - http://lark-technologies.larksuite.com:80/update
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/user/ssid
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/list
+[linkfinder] - http://lark-technologies.larksuite.com:80/service/api/v3/userprofile/
+[linkfinder] - http://lark-technologies.larksuite.com:80/text/css
+[linkfinder] - http://lark-technologies.larksuite.com:80/service/2/abtest_config/
+[linkfinder] - http://lark-technologies.larksuite.com:80/application/json
+[linkfinder] - http://lark-technologies.larksuite.com:80/application/x-www-form-urlencoded
+[linkfinder] - http://lark-technologies.larksuite.com:80/vc/setting
+[linkfinder] - http://lark-technologies.larksuite.com:80/captcha/reportFrontend
+[linkfinder] - https://verify.snssdk.com
+[linkfinder] - https://vcs.snssdk.com
+[linkfinder] - https://verification-va.byteoversea.com
+[linkfinder] - https://vcs-va.byteoversea.com
+[linkfinder] - http://lark-technologies.larksuite.com:80/
+[linkfinder] - https://reactjs.org/docs/error-decoder.html?invariant=
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/XML/1998/namespace
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/1998/Math/MathML
+[linkfinder] - http://lark-technologies.larksuite.com:80/errorCorrectLevel:
+[url] - [code-200] - http://lark-technologies.larksuite.com:80/application/x-www-form-urlencoded
+[javascript] - https://s16.byteoversea.com/ee/web-client/static/js/error-en-US.2384684b.js
+[url] - [code-200] - http://lark-technologies.larksuite.com:80/application/json
+[javascript] - https://s0.ipstatp.com/static_magic/pgc/tech/collect/collect-v.3.2.14.js
+[javascript] - https://s16.byteoversea.com/ee/web-client/static/js/not-support-en-US.a15cd196.js
+[linkfinder] - https://s16.byteoversea.com/ee/web-client/
+[linkfinder] - https://s16.byteoversea.com/ee/web-client/
+[linkfinder] - http://lark-technologies.larksuite.com:80/download
+[url] - [code-200] - https://www.larksuite.com/messenger
+[linkfinder] - http://lark-technologies.larksuite.com:80/hc/zh-cn/articles/360040080753
+[linkfinder] - http://lark-technologies.larksuite.com:80/hc/en-us/articles/360040081953
+https://lark-technologies.larksuite.com
+[url] - [code-200] - https://lark-technologies.larksuite.com/hc/en-us/articles/360040081953
+[url] - [code-200] - https://lark-technologies.larksuite.com/hc/zh-cn/articles/360040080753
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/list
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/user/webid
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/user/ssid
+[linkfinder] - http://lark-technologies.larksuite.com:80/v1/gif?
+https://www.larksuite.com
+https://passport.larksuite.com
+https://internal-api-lark-api-sg.larksuite.com
+https://internal-api-sg.larksuite.com
+[linkfinder] - http://lark-technologies.larksuite.com:80/static/login/js/
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport/authentication/idp/auth_page
+[linkfinder] - http://lark-technologies.larksuite.com:80/download/
+[linkfinder] - http://lark-technologies.larksuite.com:80/messenger/
+[linkfinder] - http://lark-technologies.larksuite.com:80/security/device/captcha/trust_device
+[linkfinder] - http://lark-technologies.larksuite.com:80/create/
+[linkfinder] - http://lark-technologies.larksuite.com:80/create
+[linkfinder] - http://lark-technologies.larksuite.com:80/otp/apply_code
+[linkfinder] - http://lark-technologies.larksuite.com:80/otp/verify_code
+[linkfinder] - http://lark-technologies.larksuite.com:80/qrlogin/init
+[linkfinder] - http://lark-technologies.larksuite.com:80/qrlogin/polling
+[linkfinder] - http://lark-technologies.larksuite.com:80/sso/confirm
+[linkfinder] - http://lark-technologies.larksuite.com:80/switch_tenant/status
+[linkfinder] - http://lark-technologies.larksuite.com:80/apply_code/switch
+[linkfinder] - http://lark-technologies.larksuite.com:80/verify_pwd/switch
+[linkfinder] - http://lark-technologies.larksuite.com:80/verify_code/switch
+[linkfinder] - http://lark-technologies.larksuite.com:80/recover/operator
+[linkfinder] - http://lark-technologies.larksuite.com:80/recover/bankcard
+[linkfinder] - http://lark-technologies.larksuite.com:80/recover/newmobile
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/m/auth_url
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/
+[linkfinder] - http://lark-technologies.larksuite.com:80/authentication/idp/
+[linkfinder] - http://lark-technologies.larksuite.com:80/unregister/v3/
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport/v3/
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport/authentication/idp/
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport
+[linkfinder] - http://lark-technologies.larksuite.com:80/invitation/admin/info
+[linkfinder] - https://px.ads.linkedin.com/collect/?pid=
+[linkfinder] - http://lark-technologies.larksuite.com:80/text/javascript
+[linkfinder] - http://unpkg.zhimg.com/@efe/zhad-tracker@1.4.0
+[linkfinder] - http://sugar.zhihu.com/log_fe?js_url=
+[linkfinder] - https://snap.licdn.com/li.lms-analytics/insight.min.js
+[linkfinder] - https://analytics.snssdk.com/meteor.js/v1/
+[linkfinder] - http://lark-technologies.larksuite.com:80/sdk
+[linkfinder] - http://lark-technologies.larksuite.com:80/gtm.js
+[linkfinder] - https://www.googletagmanager.com/gtm.js?id=
+[linkfinder] - https://s0.ipstatp.com/static_magic/pgc/tech/collect/collect-autotrack-rangers.js
+[linkfinder] - http://lark-technologies.larksuite.com:80/application/json
+[linkfinder] - http://lark-technologies.larksuite.com:80/en
+[linkfinder] - http://lark-technologies.larksuite.com:80/ja_jp
+[linkfinder] - http://lark-technologies.larksuite.com:80/zh
+[linkfinder] - https://verify.snssdk.com
+[linkfinder] - https://verification-va.byteoversea.com
+[linkfinder] - https://www.larksuite
+[linkfinder] - https://www.larksuite.com/
+[linkfinder] - http://lark-technologies.larksuite.com:80/customer-terms-of-service
+[linkfinder] - http://lark-technologies.larksuite.com:80/security/device/captcha/device?disableSSL=false&appId=suite_web_login&_timestamp_=
+[linkfinder] - http://shared.ydstatic.com/js/rlog_zhixuan/fp.js
+[linkfinder] - http://shared.ydstatic.com/js/rlog_zhixuan/lp.js
+[linkfinder] - http://lark-technologies.larksuite.com:80/verify_token/apply_code
+[linkfinder] - http://lark-technologies.larksuite.com:80/authentication/idp/sso_url
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/cp/modify/apply_old
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/cp/modify/verify_old
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/cp/modify/apply_new
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/cp/modify/verify_new
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/login/forget/apply/modify_pwd_token/
+[linkfinder] - http://lark-technologies.larksuite.com:80/v2/login/set/pwd/
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport/logout/web?redirect_uri=
+[linkfinder] - http://lark-technologies.larksuite.com:80/csrf
+[linkfinder] - http://lark-technologies.larksuite.com:80/account_manage/info
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/user
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/users
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/switch_tenant/status
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/switch
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/qrlogin/init
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/qrlogin/polling
+[linkfinder] - http://lark-technologies.larksuite.com:80/v3/app
+[linkfinder] - http://lark-technologies.larksuite.com:80/verify_token/verify_code
+[linkfinder] - http://lark-technologies.larksuite.com:80/verify_token/cp_list?scope=
+[linkfinder] - http://lark-technologies.larksuite.com:80/join_team/verify_token/team_code_confirm
+[linkfinder] - http://lark-technologies.larksuite.com:80/join_team/verify_token/team_code_join
+[linkfinder] - http://lark-technologies.larksuite.com:80/join_team/verify_token/verify_name
+[linkfinder] - http://lark-technologies.larksuite.com:80/join_team/verify_token/create
+[linkfinder] - http://lark-technologies.larksuite.com:80/authentication/idp/sso_url
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport/page/login/?app_id=
+[linkfinder] - http://lark-technologies.larksuite.com:80/verify_token/user_list
+[linkfinder] - http://lark-technologies.larksuite.com:80/suite/passport/page/login/?redirect_uri=
+[linkfinder] - http://lark-technologies.larksuite.com:80/logout/web
+[linkfinder] - https://sf1-ttcdn-tos.pstatp.com/obj/rc-web-sdk/acrawler.js
+[linkfinder] - https://sf16-muse-va.ibytedtos.com/obj/rc-web-sdk-gcs/acrawler.js
+[linkfinder] - https://sf-tk-sg.ibytedtos.com/obj/rc-web-sdk-sg/acrawler.js
+[linkfinder] - http://lark-technologies.larksuite.com:80/login/register
+[linkfinder] - http://lark-technologies.larksuite.com:80/download?from=passport_register
+[linkfinder] - http://lark-technologies.larksuite.com:80/admin/
+[linkfinder] - http://lark-technologies.larksuite.com:80/goofy/ee/suite/passport/static/login/img/copy-card-left.50160861.png
+[linkfinder] - http://lark-technologies.larksuite.com:80/goofy/ee/suite/passport/static/login/img/copy-card-right.90b35603.png
+[linkfinder] - http://lark-technologies.larksuite.com:80/goofy/ee/suite/passport/static/login/img/pc-bg.917d0bdd.svg
+[linkfinder] - http://lark-technologies.larksuite.com:80/download
+[linkfinder] - https://miwork.f.mioffice.cn
+[linkfinder] - https://appstore.crc.com.cn/app/appdownload/download.html?appId=F29CC461DA554E2BB73AA0F7D4E51354
+[url] - [code-200] - http://lark-technologies.larksuite.com:80/admin/
+[url] - [code-200] - http://lark-technologies.larksuite.com:80/invitation/admin/info
+[url] - [code-200] - http://lark-technologies.larksuite.com:80/messenger/
+[url] - [code-400] - https://lark-technologies.larksuite.com/suite/passport/page/login/?app_id=
+[url] - [code-400] - https://lark-technologies.larksuite.com/suite/passport/page/login/?redirect_uri=
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flark-technologies.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+https://open.larksuite.com
+https://app.larksuite.com
+https://meetings.larksuite.com
+[url] - [code-200] - https://lark-technologies.larksuite.com/create/
+[url] - [code-200] - http://lark-technologies.larksuite.com:80/suite/passport/authentication/idp/auth_page
+[url] - [code-200] - https://www.larksuite.com/
+[javascript] - https://sf16-va.larksuitecdn.com/obj/goofy-va/hera-fe/static/js/vendor.1d007abe.js
+[javascript] - https://sf16-va.larksuitecdn.com/obj/goofy-va/hera-fe/static/js/htmlpcindex.eadb8b80.js
+[url] - [code-200] - https://www.larksuite.com/
+[linkfinder] - http://lark-technologies.larksuite.com:80/1yt
+[linkfinder] - http://lark-technologies.larksuite.com:80/4m8
+[linkfinder] - http://lark-technologies.larksuite.com:80/9A7
+[linkfinder] - http://lark-technologies.larksuite.com:80/a/b
+[linkfinder] - http://lark-technologies.larksuite.com:80/text/css
+[linkfinder] - http://lark-technologies.larksuite.com:80/
+[linkfinder] - http://lark-technologies.larksuite.com:80/application/x-www-form-urlencoded
+[linkfinder] - https://reactjs.org/docs/error-decoder.html?invariant=
+[linkfinder] - http://lark-technologies.larksuite.com:80/a/i
+[linkfinder] - http://www.w3.org/1999/xlink
+[linkfinder] - http://www.w3.org/XML/1998/namespace
+[linkfinder] - http://www.w3.org/1999/xhtml
+[linkfinder] - http://www.w3.org/2000/svg
+[linkfinder] - http://www.w3.org/1998/Math/MathML

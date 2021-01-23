@@ -1,0 +1,30 @@
+[robots] - http://forsakencove.larksuite.com:80/docs/*
+[robots] - http://forsakencove.larksuite.com:80/sheets/*
+[robots] - http://forsakencove.larksuite.com:80/sheet/*
+[robots] - http://forsakencove.larksuite.com:80/file/*
+[robots] - http://forsakencove.larksuite.com:80/wiki/*
+[robots] - http://forsakencove.larksuite.com:80/mindnotes/*
+[robots] - http://forsakencove.larksuite.com:80/mindnote/*
+[robots] - http://forsakencove.larksuite.com:80/slides/*
+[robots] - http://forsakencove.larksuite.com:80/slide/*
+[robots] - http://forsakencove.larksuite.com:80/wiki_home/*
+[robots] - http://forsakencove.larksuite.com:80/base/*
+[robots] - http://forsakencove.larksuite.com:80/space/*
+[robots] - http://forsakencove.larksuite.com:80/drive/*
+[robots] - http://forsakencove.larksuite.com:80/doc/*
+[robots] - http://forsakencove.larksuite.com:80/api/*
+[robots] - http://forsakencove.larksuite.com:80/bitable/*
+[robots] - http://forsakencove.larksuite.com:80/
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Ffile%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fbitable%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fsheets%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fsheet%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fwiki%2F%2A&template_id=6882649779491307521
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fslide%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fdoc%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fmindnotes%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fbase%2F%2A&template_id=6882649779491307521&with_guest=1
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+[url] - [code-403] - https://forsakencove.larksuite.com/slides/*
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fforsakencove.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+[url] - [code-403] - https://forsakencove.larksuite.com/mindnote/*

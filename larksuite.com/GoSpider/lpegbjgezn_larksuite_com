@@ -1,0 +1,24 @@
+[robots] - http://lpegbjgezn.larksuite.com:80/docs/*
+[robots] - http://lpegbjgezn.larksuite.com:80/sheets/*
+[robots] - http://lpegbjgezn.larksuite.com:80/sheet/*
+[robots] - http://lpegbjgezn.larksuite.com:80/file/*
+[robots] - http://lpegbjgezn.larksuite.com:80/wiki/*
+[robots] - http://lpegbjgezn.larksuite.com:80/mindnotes/*
+[robots] - http://lpegbjgezn.larksuite.com:80/mindnote/*
+[robots] - http://lpegbjgezn.larksuite.com:80/slides/*
+[robots] - http://lpegbjgezn.larksuite.com:80/slide/*
+[robots] - http://lpegbjgezn.larksuite.com:80/wiki_home/*
+[robots] - http://lpegbjgezn.larksuite.com:80/base/*
+[robots] - http://lpegbjgezn.larksuite.com:80/space/*
+[robots] - http://lpegbjgezn.larksuite.com:80/drive/*
+[robots] - http://lpegbjgezn.larksuite.com:80/doc/*
+[robots] - http://lpegbjgezn.larksuite.com:80/api/*
+[robots] - http://lpegbjgezn.larksuite.com:80/bitable/*
+[robots] - http://lpegbjgezn.larksuite.com:80/
+https://internal-api-lark-api.larksuite.com
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flpegbjgezn.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+[javascript] - https://sf16-va.larksuitecdn.com/goofy/ee/suite/passport/static/login/js/vendor~page.login.7fda2e72.js
+[javascript] - https://sf16-va.larksuitecdn.com/goofy/ee/suite/passport/static/login/js/login.28cd11b8.js
+https://internal-api.larksuite.com
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flpegbjgezn.larksuite.com%2Fwiki%2F%2A&template_id=6882649779491307521
+[url] - [code-200] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Flpegbjgezn.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
