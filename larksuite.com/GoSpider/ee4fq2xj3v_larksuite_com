@@ -1,0 +1,35 @@
+[robots] - http://ee4fq2xj3v.larksuite.com:80/docs/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/sheets/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/sheet/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/file/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/wiki/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/mindnotes/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/mindnote/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/slides/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/slide/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/wiki_home/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/base/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/space/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/drive/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/doc/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/api/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/bitable/*
+[robots] - http://ee4fq2xj3v.larksuite.com:80/
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/mindnote/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/slide/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/doc/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/api/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/wiki/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/wiki_home/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/mindnotes/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/file/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/sheet/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/base/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/drive/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/bitable/*
+[url] - [code-403] - https://ee4fq2xj3v.larksuite.com/drive/home/
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/slides/*
+[url] - [code-403] - http://ee4fq2xj3v.larksuite.com:80/space/*
+[url] - [code-403] - https://ee4fq2xj3v.larksuite.com/docs/*
+[url] - [code-403] - https://ee4fq2xj3v.larksuite.com/sheets/*

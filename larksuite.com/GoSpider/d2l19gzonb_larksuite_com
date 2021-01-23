@@ -1,0 +1,35 @@
+[robots] - http://d2l19gzonb.larksuite.com:80/docs/*
+[robots] - http://d2l19gzonb.larksuite.com:80/sheets/*
+[robots] - http://d2l19gzonb.larksuite.com:80/sheet/*
+[robots] - http://d2l19gzonb.larksuite.com:80/file/*
+[robots] - http://d2l19gzonb.larksuite.com:80/wiki/*
+[robots] - http://d2l19gzonb.larksuite.com:80/mindnotes/*
+[robots] - http://d2l19gzonb.larksuite.com:80/mindnote/*
+[robots] - http://d2l19gzonb.larksuite.com:80/slides/*
+[robots] - http://d2l19gzonb.larksuite.com:80/slide/*
+[robots] - http://d2l19gzonb.larksuite.com:80/wiki_home/*
+[robots] - http://d2l19gzonb.larksuite.com:80/base/*
+[robots] - http://d2l19gzonb.larksuite.com:80/space/*
+[robots] - http://d2l19gzonb.larksuite.com:80/drive/*
+[robots] - http://d2l19gzonb.larksuite.com:80/doc/*
+[robots] - http://d2l19gzonb.larksuite.com:80/api/*
+[robots] - http://d2l19gzonb.larksuite.com:80/bitable/*
+[robots] - http://d2l19gzonb.larksuite.com:80/
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/docs/*
+[url] - [code-403] - https://passport.larksuite.com/suite/passport/page/login/?app_id=2&query_scope=all&redirect_uri=https%3A%2F%2Fd2l19gzonb.larksuite.com%2Fdrive%2Fhome%2F&template_id=6882649779491307521
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/wiki/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/base/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/api/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/sheet/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/sheets/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/slide/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/mindnotes/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/wiki_home/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/file/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/mindnote/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/slides/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/space/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/bitable/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/drive/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/doc/*
+[url] - [code-403] - http://d2l19gzonb.larksuite.com:80/
