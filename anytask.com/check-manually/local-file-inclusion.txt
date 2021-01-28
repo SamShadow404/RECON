@@ -1,0 +1,16 @@
+http://mail.anytask.com:80/ajax_get_page_translations.html?short_name=
+http://support.anytask.com:80/api/v2/help_center/community_posts/search?per_page=4&query=
+http://support.anytask.com:80/hc/api/v2/user_segments?multibrand=true&user_type=
+http://www.mail.anytask.com:80/ajax_get_page_translations.html?short_name=
+https://anytask.com/?utm_campaign=CT+AnyTask&utm_content=B4U&utm_medium=prezly&utm_source=paid
+https://anytask.com/category/design/logo-design?page=1&per_page=18&sort=recommended
+https://anytask.com/category/design/photo-editing-and-retouching?page=1&per_page=18&sort=recommended
+https://anytask.com/category/lifestyle/lessons-teaching?page=1&per_page=18&sort=recommended
+https://anytask.com/category/marketing/social-media-marketing?page=1&per_page=18&sort=recommended
+https://anytask.com/category/marketing/web-traffic?page=1&per_page=18&sort=recommended
+https://anytask.com/category/tech/data-research-and-scraping?page=1&per_page=18&sort=recommended
+https://anytask.com/category/tech/web-php-and-net-programming?page=1&per_page=18&sort=recommended
+https://anytask.com/category/video-animation/intros-and-outros?page=1&per_page=18&sort=recommended
+https://anytask.com/category/video-animation/short-video-ads?page=1&per_page=18&sort=recommended
+https://anytask.com/category/writing-and-translation/articles-and-blog-posts?page=1&per_page=18&sort=recommended
+https://anytask.com/category/writing-and-translation/creative-writing?page=1&per_page=18&sort=recommended
