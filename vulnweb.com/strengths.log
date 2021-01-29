@@ -1,0 +1,6 @@
+[+] http://testphp.vulnweb.com/ -> Anti-CSRF token is not a string encoded value.
+[+] http://testphp.vulnweb.com/guestbook.php -> Anti-CSRF token is not a string encoded value.
+[+] http://testphp.vulnweb.com/login.php -> Anti-CSRF token is not a string encoded value.
+[+] http://testphp.vulnweb.com/signup.php -> Anti-CSRF token is not a string encoded value.
+[+] http://testphp.vulnweb.com/product.php?pic=1 -> Anti-CSRF token is not a string encoded value.
+

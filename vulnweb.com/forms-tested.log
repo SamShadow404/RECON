@@ -1,0 +1,308 @@
+(i) http://testphp.vulnweb.com/:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/index.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/categories.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/artists.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/disclaimer.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/cart.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/guestbook.php:
+
+<form action="" method="post" name="faddentry">
+ <input name="name" type="hidden" value="anonymous user"/>
+ <textarea name="text" rows="5" style="width:500px;" wrap="VIRTUAL"></textarea>
+ <br/>
+ <input name="submit" type="submit" value="add message"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/guestbook.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/login.php:
+
+<form action="userinfo.php" method="post" name="loginform">
+ <table cellpadding="4" cellspacing="1">
+  <tr>
+   <td>
+    Username :
+   </td>
+   <td>
+    <input name="uname" size="20" style="width:120px;" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Password :
+   </td>
+   <td>
+    <input name="pass" size="20" style="width:120px;" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input style="width:75px;" type="submit" value="login"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+
+(i) http://testphp.vulnweb.com/login.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/userinfo.php:
+
+<form action="userinfo.php" method="post" name="loginform">
+ <table cellpadding="4" cellspacing="1">
+  <tr>
+   <td>
+    Username :
+   </td>
+   <td>
+    <input name="uname" size="20" style="width:120px;" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Password :
+   </td>
+   <td>
+    <input name="pass" size="20" style="width:120px;" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input style="width:75px;" type="submit" value="login"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+
+(i) http://testphp.vulnweb.com/userinfo.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/listproducts.php?cat=1:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/artists.php?artist=1:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/signup.php:
+
+<form action="/secured/newuser.php" method="post" name="form1">
+ <table border="0" cellpadding="4" cellspacing="1">
+  <tr>
+   <td valign="top">
+    Username:
+   </td>
+   <td>
+    <input name="uuname" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Password:
+   </td>
+   <td>
+    <input name="upass" style="width:200px" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Retype password:
+   </td>
+   <td>
+    <input name="upass2" style="width:200px" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Name:
+   </td>
+   <td>
+    <input name="urname" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Credit card number:
+   </td>
+   <td>
+    <input name="ucc" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    E-Mail:
+   </td>
+   <td>
+    <input name="uemail" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Phone number:
+   </td>
+   <td>
+    <input name="uphone" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Address:
+   </td>
+   <td>
+    <textarea name="uaddress" rows="5" style="width:200px" wrap="soft"></textarea>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input name="signup" type="submit" value="signup"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+
+(i) http://testphp.vulnweb.com/signup.php:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/product.php?pic=1:
+
+<form action="cart.php" method="POST" name="f_addcart">
+ <input name="price" type="hidden" value="500"/>
+ <input name="addcart" type="hidden" value="1"/>
+ <input type="submit" value="add this picture to cart"/>
+</form>
+
+(i) http://testphp.vulnweb.com/product.php?pic=1:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+(i) http://testphp.vulnweb.com/listproducts.php?artist=1:
+
+<form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+
+
