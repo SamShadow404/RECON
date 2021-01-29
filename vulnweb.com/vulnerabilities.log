@@ -1,0 +1,601 @@
+[!] http://testphp.vulnweb.com/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:26:54 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:26:54 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/ -> No Cookie Validation on Cross-Origin Requests.
+
+[i] Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:26:56 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/ -> Form Requested Without Anti-CSRF Token.
+
+[i] Form Requested: <form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+[i] Request Query: {'searchFor': 'csrftesting', 'goButton': b'go'}
+
+
+[!] http://testphp.vulnweb.com/ -> POST-Based Request Forgery on Forms.
+
+[i] Form: <form action="search.php?test=query" method="post">
+ <label>
+  search art
+ </label>
+ <input name="searchFor" size="10" type="text"/>
+ <input name="goButton" type="submit" value="go"/>
+</form>
+
+[i] POST Query: {'searchFor': 'csrftesting', 'goButton': b'go'}
+
+
+
+[!] http://testphp.vulnweb.com/index.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:00 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/index.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:01 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/categories.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:02 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/categories.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:02 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/artists.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:03 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/artists.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:04 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/disclaimer.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:05 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/disclaimer.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:05 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/cart.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:06 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/cart.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:07 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/guestbook.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:08 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/guestbook.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:08 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/guestbook.php -> No Cookie Validation on Cross-Origin Requests.
+
+[i] Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:10 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/guestbook.php -> Form Requested Without Anti-CSRF Token.
+
+[i] Form Requested: <form action="" method="post" name="faddentry">
+ <input name="name" type="hidden" value="anonymous user"/>
+ <textarea name="text" rows="5" style="width:500px;" wrap="VIRTUAL"></textarea>
+ <br/>
+ <input name="submit" type="submit" value="add message"/>
+</form>
+
+[i] Request Query: {'name': 'anonymous user', 'submit': b'add message', 'text': b'nGdJaW'}
+
+
+[!] http://testphp.vulnweb.com/guestbook.php -> POST-Based Request Forgery on Forms.
+
+[i] Form: <form action="" method="post" name="faddentry">
+ <input name="name" type="hidden" value="anonymous user"/>
+ <textarea name="text" rows="5" style="width:500px;" wrap="VIRTUAL"></textarea>
+ <br/>
+ <input name="submit" type="submit" value="add message"/>
+</form>
+
+[i] POST Query: {'name': 'anonymous user', 'submit': b'add message', 'text': b'nGdJaW'}
+
+
+
+[!] http://testphp.vulnweb.com/AJAX/index.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:14 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/AJAX/index.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:15 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/login.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:16 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/login.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:16 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/login.php -> No Cookie Validation on Cross-Origin Requests.
+
+[i] Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:19 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/login.php -> Form Requested Without Anti-CSRF Token.
+
+[i] Form Requested: <form action="userinfo.php" method="post" name="loginform">
+ <table cellpadding="4" cellspacing="1">
+  <tr>
+   <td>
+    Username :
+   </td>
+   <td>
+    <input name="uname" size="20" style="width:120px;" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Password :
+   </td>
+   <td>
+    <input name="pass" size="20" style="width:120px;" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input style="width:75px;" type="submit" value="login"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+[i] Request Query: {'uname': 'csrftesting', 'pass': 'lfXhMa'}
+
+
+[!] http://testphp.vulnweb.com/login.php -> POST-Based Request Forgery on Forms.
+
+[i] Form: <form action="userinfo.php" method="post" name="loginform">
+ <table cellpadding="4" cellspacing="1">
+  <tr>
+   <td>
+    Username :
+   </td>
+   <td>
+    <input name="uname" size="20" style="width:120px;" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Password :
+   </td>
+   <td>
+    <input name="pass" size="20" style="width:120px;" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input style="width:75px;" type="submit" value="login"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+[i] POST Query: {'uname': 'csrftesting', 'pass': 'lfXhMa'}
+
+
+
+[!] http://testphp.vulnweb.com/userinfo.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:24 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/userinfo.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:26 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:27 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:28 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/hpp/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:29 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/hpp/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:29 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/listproducts.php?cat=1 -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:30 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/listproducts.php?cat=1 -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:31 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/artists.php?artist=1 -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:32 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/artists.php?artist=1 -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:32 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/signup.php -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:33 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/signup.php -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:34 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/signup.php -> No Cookie Validation on Cross-Origin Requests.
+
+[i] Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:35 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/signup.php -> Form Requested Without Anti-CSRF Token.
+
+[i] Form Requested: <form action="/secured/newuser.php" method="post" name="form1">
+ <table border="0" cellpadding="4" cellspacing="1">
+  <tr>
+   <td valign="top">
+    Username:
+   </td>
+   <td>
+    <input name="uuname" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Password:
+   </td>
+   <td>
+    <input name="upass" style="width:200px" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Retype password:
+   </td>
+   <td>
+    <input name="upass2" style="width:200px" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Name:
+   </td>
+   <td>
+    <input name="urname" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Credit card number:
+   </td>
+   <td>
+    <input name="ucc" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    E-Mail:
+   </td>
+   <td>
+    <input name="uemail" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Phone number:
+   </td>
+   <td>
+    <input name="uphone" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Address:
+   </td>
+   <td>
+    <textarea name="uaddress" rows="5" style="width:200px" wrap="soft"></textarea>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input name="signup" type="submit" value="signup"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+[i] Request Query: {'uuname': 'csrftesting', 'urname': 'csrftesting', 'ucc': 'csrftesting', 'uemail': 'csrftesting', 'uphone': 'csrftesting', 'upass': 'APsNgf', 'upass2': 'wvhpQU', 'signup': b'signup', 'uaddress': b'XNGjQL'}
+
+
+[!] http://testphp.vulnweb.com/signup.php -> POST-Based Request Forgery on Forms.
+
+[i] Form: <form action="/secured/newuser.php" method="post" name="form1">
+ <table border="0" cellpadding="4" cellspacing="1">
+  <tr>
+   <td valign="top">
+    Username:
+   </td>
+   <td>
+    <input name="uuname" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Password:
+   </td>
+   <td>
+    <input name="upass" style="width:200px" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Retype password:
+   </td>
+   <td>
+    <input name="upass2" style="width:200px" type="password"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Name:
+   </td>
+   <td>
+    <input name="urname" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Credit card number:
+   </td>
+   <td>
+    <input name="ucc" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    E-Mail:
+   </td>
+   <td>
+    <input name="uemail" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Phone number:
+   </td>
+   <td>
+    <input name="uphone" style="width:200px" type="text"/>
+   </td>
+  </tr>
+  <tr>
+   <td valign="top">
+    Address:
+   </td>
+   <td>
+    <textarea name="uaddress" rows="5" style="width:200px" wrap="soft"></textarea>
+   </td>
+  </tr>
+  <tr>
+   <td align="right" colspan="2">
+    <input name="signup" type="submit" value="signup"/>
+   </td>
+  </tr>
+ </table>
+</form>
+
+[i] POST Query: {'uuname': 'csrftesting', 'urname': 'csrftesting', 'ucc': 'csrftesting', 'uemail': 'csrftesting', 'uphone': 'csrftesting', 'upass': 'APsNgf', 'upass2': 'wvhpQU', 'signup': b'signup', 'uaddress': b'XNGjQL'}
+
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:40 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/network-attached-storage-dlink/1/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:41 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:41 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/web-camera-a4tech/2/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:42 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:43 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/Details/color-printer/3/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:44 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/hpp/?pp=12 -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:44 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/hpp/?pp=12 -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:45 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/product.php?pic=1 -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:46 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/product.php?pic=1 -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:47 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/product.php?pic=1 -> No Cookie Validation on Cross-Origin Requests.
+
+[i] Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:48 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/product.php?pic=1 -> Form Requested Without Anti-CSRF Token.
+
+[i] Form Requested: <form action="cart.php" method="POST" name="f_addcart">
+ <input name="price" type="hidden" value="500"/>
+ <input name="addcart" type="hidden" value="1"/>
+ <input type="submit" value="add this picture to cart"/>
+</form>
+[i] Request Query: {'price': '500', 'addcart': '1'}
+
+
+[!] http://testphp.vulnweb.com/product.php?pic=1 -> POST-Based Request Forgery on Forms.
+
+[i] Form: <form action="cart.php" method="POST" name="f_addcart">
+ <input name="price" type="hidden" value="500"/>
+ <input name="addcart" type="hidden" value="1"/>
+ <input type="submit" value="add this picture to cart"/>
+</form>
+[i] POST Query: {'price': '500', 'addcart': '1'}
+
+
+
+[!] http://testphp.vulnweb.com/listproducts.php?artist=1 -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:53 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/listproducts.php?artist=1 -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:53 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:54 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-1/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:55 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:56 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-1.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:56 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:57 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-2/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:58 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-2.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:59 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-2.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:27:59 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/ -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:28:00 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/BuyProduct-3/ -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:28:01 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-3.html -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:28:02 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/Mod_Rewrite_Shop/RateProduct-3.html -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:28:02 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12 -> No Referer Header based Request Validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:28:03 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+[!] http://testphp.vulnweb.com/hpp/params.php?p=valid&pp=12 -> No Origin Header based request validation presence.
+
+[i] Response Headers: {'Server': 'nginx/1.19.0', 'Date': 'Fri, 29 Jan 2021 15:28:04 GMT', 'Content-Type': 'text/html; charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Connection': 'close', 'X-Powered-By': 'PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1', 'Content-Encoding': 'gzip'}
+
+
+
